@@ -1,3 +1,2 @@
 # Leetcode
-Leetcode 練習
-https://leetcode.com/
+[Leetcode 練習](https://leetcode.com/)
